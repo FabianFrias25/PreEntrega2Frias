@@ -1,0 +1,7 @@
+celular|Samsung A51|Usado|1|10000|
+ropa|remera|nuevo|0|1250
+sillas|madera|nuevo|0|5000
+celular|Iphone 11|Usado|2|80000
+ropa|pantalon deportivo|usado|1|2500.0
+ropa|jogging deportivo|nuevo|0|4550.0
+moto|Honda Twister C125|usada|1|500000.0

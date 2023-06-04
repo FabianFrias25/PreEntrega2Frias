@@ -1,0 +1,7 @@
+setup.py
+Elmor_Marketplace/__init__.py
+Elmor_Marketplace/clientes.py
+Elmor_Marketplace.egg-info/PKG-INFO
+Elmor_Marketplace.egg-info/SOURCES.txt
+Elmor_Marketplace.egg-info/dependency_links.txt
+Elmor_Marketplace.egg-info/top_level.txt
